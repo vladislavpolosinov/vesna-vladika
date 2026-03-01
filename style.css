@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    color: #DE0052;
+}
+header {
+    border: 1px solid #B3F36D;
+    background-color: #B3F36D;
+}
+main h1 {
+    text-align: center;
+}
+main h4 {
+    text-align: center;
+}
+footer{
+    border: 1px solid #B3F36D;
+    background-color: #B3F36D;
+}
